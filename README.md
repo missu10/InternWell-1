@@ -20,3 +20,5 @@ Using the Command Line Interface.
 - [Corona - Wikipedia](https://en.wikipedia.org/wiki/Corona)
 
 When will corona end
+ -[This is my answer](https://nypost.com/2020/04/02/best-guesses-on-when-corona-cases-will-peak-and-when-lockdowns-can-end/)
+
